@@ -9,12 +9,18 @@
     padding: 20px;
     border-radius: 30px;
     
-    
-    
-     
+}
+img {
+
+    width: 80px;
+    height: 80px;
     
 
+
+
 }
+
+
 
 
 input{
@@ -38,4 +44,12 @@ body{
     background-repeat: no-repeat;
     background-size: cover;
    background-color: rgb(7, 7, 7);
+}
+
+# {
+
+    width: 30px;
+    height: 505px;
+
+
 }
